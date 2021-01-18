@@ -630,6 +630,16 @@ Paid ~$90
 
 https://www.springer.com/gp/book/9783319443256
 
+## Spatio-Temporal Statistics with R
+Christopher K. Wikle, Andrew Zammit-Mangion, and Noel Cressie
+
+This book provides an [...] accessible introduction [to spatio-temporal statistics], with hands-on applications of the methods through the use of R Labs at the end of each chapter.
+At the time of writing, this unique aspect of the book fills a void in the literature that can provide a bridge for students and researchers alike who wish to learn the basics of spatio-temporal statistics.
+
+Free PDF. Paid Hardback ~$60, Paid EBook ~$55.
+
+https://spacetimewithr.org/index
+
 # Journalism
 
 ## Practical R for Mass Communication and Journalism
